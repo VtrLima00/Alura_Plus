@@ -59,6 +59,9 @@ body{
     padding: 1.25rem;
     display: block;
 }
+.container__botao:hover {
+    background-color: purple;
+}
 .botao__secundario {
     border-radius: 0.5rem;
     padding: 1.25rem;
